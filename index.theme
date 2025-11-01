@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Ion
+Comment=Ion Sound Theme for KDE Plasma
+Directories=stereo
+Example=outcome-success
+
+[stereo]
+OutputProfile=stereo
