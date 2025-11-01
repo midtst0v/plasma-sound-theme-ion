@@ -1,5 +1,5 @@
 # Ion - A KDE Plasma Sound Theme
-A custom KDE Plasma sound scheme. All sounds created using Surge XT and Ableton Live 12.  
+A custom KDE Plasma sound scheme. All sounds created using Surge XT and Ableton Live 12 on a MacBook Pro (sorry, purists).  
 **Disclaimer: This theme does not include sounds for all events specified by the [XDG standard](https://freedesktop.org/wiki/Specifications/sound-theme-spec/). However, it does its best to cover many commonly encountered desktop events.**  
   
 If you'd like to suggest additional event sounds, feel free to create an issue with the *enhancement* label.
